@@ -1,0 +1,5 @@
+Game speed set to 30
+Added compatibility script 'd3d\d3d_set_projection_ext.gml'
+Added compatibility script 'd3d\d3d_start.gml'
+Added compatibility script 'd3d\__init_d3d.gml'
+Added compatibility script '__init_global.gml'
